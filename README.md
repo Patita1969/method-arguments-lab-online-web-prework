@@ -70,8 +70,7 @@ Let's fix that now:
 ```ruby
 # lib/introduction.rb
 
-def introduction(name)
-end
+
 ```
 
 Run the test again and you'll see the following:
